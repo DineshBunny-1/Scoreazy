@@ -67,15 +67,15 @@ Edit
 
 src/
 
-  ├── components/     # Reusable UI components
+    ├── components/     # Reusable UI components
   
-  ├── pages/          # Page-level components
+     ├── pages/          # Page-level components
   
-  ├── assets/         # Static images & icons
+     ├── assets/         # Static images & icons
   
-  ├── App.tsx         # Main App entry
+     ├── App.tsx         # Main App entry
   
-  └── main.tsx        # React DOM render
+     └── main.tsx        # React DOM render
 
 
 
