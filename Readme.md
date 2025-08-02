@@ -1,4 +1,4 @@
-# Confidence Builder App
+# Scoreazy
 
 A modern web application designed to help students build self-confidence through engaging activities and structured learning modules.
 
