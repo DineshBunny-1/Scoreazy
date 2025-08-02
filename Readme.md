@@ -58,15 +58,25 @@ https://scoreazy-seven.vercel.app/
 
 
 📂 Project Structure
+
 bash
+
 Copy
+
 Edit
+
 src/
+
   ├── components/     # Reusable UI components
+  
   ├── pages/          # Page-level components
+  
   ├── assets/         # Static images & icons
+  
   ├── App.tsx         # Main App entry
+  
   └── main.tsx        # React DOM render
+
 
 
 📜 License
