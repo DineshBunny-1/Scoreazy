@@ -35,8 +35,8 @@ Built with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/DineshBunny-1/Scoreazy.git
+   cd Scoreazy
 Install dependencies
 
 bash
@@ -53,23 +53,9 @@ Open http://localhost:8080 (or the port in your vite.config.ts).
 
 🌐 Deployment
 This project is deployed on Vercel.
+https://scoreazy-seven.vercel.app/
 
-To deploy:
-Push your code to GitHub
 
-Go to Vercel
-
-Import your repository
-
-Set:
-
-Framework: Vite
-
-Build Command: npm run build
-
-Output Directory: dist
-
-Deploy 🚀
 
 📂 Project Structure
 bash
@@ -81,8 +67,7 @@ src/
   ├── assets/         # Static images & icons
   ├── App.tsx         # Main App entry
   └── main.tsx        # React DOM render
-🖼️ Screenshots
-(Add screenshots of your UI here)
+
 
 📜 License
 This project is licensed under the MIT License.
